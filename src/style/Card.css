@@ -1,0 +1,47 @@
+.card {
+  width: 230px;
+  margin: 10px auto;
+  border: 1px solid rgb(51, 52, 75);
+  background-color: hsl(211, 23%, 80%);
+  border-radius: 20px;
+}
+
+h2{
+  background-color: hsl(211, 23%, 80%);
+}
+
+p{
+  background-color: hsl(211, 23%, 80%);
+}
+
+#poketype{
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 25px;
+}
+.addButton{
+  float: left;
+  margin-left: 10px;
+  background-color: inherit;
+ 
+}
+button{
+  background-color: hsla(210, 84%, 93%, 0.582);
+  border-radius: 40px;
+}
+#typetext{
+  float: right;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+li{
+  background-color: hsl(211, 23%, 80%);
+}
+img{
+  background-color: hsla(211, 41%, 75%, 0.582);
+  border-radius: 40px;
+  margin-bottom: 10px;
+}

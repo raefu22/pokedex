@@ -1,0 +1,21 @@
+#bottomname {
+  float: left;
+  width: 200px;
+  margin: 20px;
+  margin-right: 30px;
+  padding: 10px;
+  border: 1px solid rgb(41, 43, 63);
+  background-color: hsl(221, 29%, 69%);
+  border-radius: 20px;
+}
+#randomcardtitle{
+  width: 200px;
+  margin-right: 30px;
+  padding: 10px;
+  border: 1px solid rgb(41, 43, 63);
+  background-color: hsl(220, 67%, 86%);
+  border-radius: 10px;
+}
+*{
+  background-color: hsl(224, 22%, 59%);
+}
